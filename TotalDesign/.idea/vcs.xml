@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/MuseGAN/chordMuseGAN" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/MuseGAN_G_FC_D_LSTM/chordMuseGAN" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/MuseGAN_G_FC_D_LSTM_1/chordMuseGAN" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/chordMuseGAN" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/chordMuseGAN/chordMuseGAN" vcs="Git" />
+  </component>
+</project>
